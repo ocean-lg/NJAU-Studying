@@ -8,5 +8,5 @@ Hope your GPA+++!
 &emsp;&emsp;本Respository采用AGPL-3.0许可证，您可以使用本Respository下的任何资源。如果您对来源于此Respository下的资源进行了修改、加工等，您必须开源所有的修改和修改后的文档。因此本项目是禁止商用的（包括盗印、分发等行为）。
 # 版本
 ## v0.1
-Respository created.    
-按照“开课学院——课程”创建了文件目录。
+&emsp;&emsp;Respository created.    
+&emsp;&emsp;按照“开课学院——课程”创建了文件目录。
